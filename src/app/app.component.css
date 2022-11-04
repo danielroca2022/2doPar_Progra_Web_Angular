@@ -22,12 +22,14 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   margin: 30px;
   width: 100%;
+  padding-top: 50px;
+
 
 }
 .label{
 
   color: rgb(100, 6, 56);
-  padding-top: 40px;
+  padding-top: 50px;
   text-align: center;
   font-size: 18px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
