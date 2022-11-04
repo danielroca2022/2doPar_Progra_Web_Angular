@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+
+}
+.Ttipoproducto{
+width: 400px;
+background-color: darksalmon;
+padding: 35px;
+margin-top: 150px;
+margin-left: 500px;
+border-radius: 8%;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.title{
+  color: rgb(231, 22, 133);
+  text-align: center;
+  font-size: 40px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 30px;
+  width: 100%;
+
+}
+.label{
+
+  color: rgb(100, 6, 56);
+  padding-top: 40px;
+  text-align: center;
+  font-size: 18px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 10px;
+  width: 100%;
+
+}
+
+.textbox{
+  color: rgb(255, 122, 20);
+  font-size: 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  width: 100%;
+  margin: 10px;
+}
+.button{
+  margin: 10px;
+  text-align: center;
+  color: rgb(165, 50, 104);
+  font-size: 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 100%;
+}
